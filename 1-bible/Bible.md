@@ -113,14 +113,14 @@ Kniha o rozkoši
 
 ## Persie
 ### Zarathustra
-* 6. stol BCE
+* 6\. stol BCE
 * kazatel a filosov
 * náboženské zpěvy
 * dualismus dobra a zla
 * ovlivnil Nietzscheho
 
 ### Tisíc vyprávění
-* 3. až 7. stol. CE
+* 3\. až 7. stol. CE
 * Základ pro arabský text Tisíc a jedna noc
 * soubor asi 200 příběhů
 
