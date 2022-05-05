@@ -1,5 +1,6 @@
 # Kontext
 * konec 19. století
+* žil ale na začátku
 
 ## Dekadence
 * životní pocit × symbolismus (směr)
@@ -25,7 +26,15 @@
 
 ## Česká moderna
 
+## Generace buřičů
+* Petr Bezruč - Slezské písně (Maryčka Magdónova, Ostrava, Ošklivý zjev)
+* František Gellner - Po nás ať přijde potopa, Radosti života
+* Fráňa Šrámek - Života bído, přec tě mám rád, Splav, Stříbrný vítr, Měsíc nad řekou
+* Stanislav Kostka Neumann - Rudé zpěvy
+
+
 # Autor
+* lartpourlartismus
 * časově ještě romantik, ale jinak symbolista
 * Američan
 * literatura hrůzy
