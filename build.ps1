@@ -10,6 +10,8 @@ if($f){
 
 Write-Output "Building files from " $folder;
 
+$startFolder = Get-Location;
+
 Get-ChildItem $folder -Recurse -Filter *.md |
 ForEach-Object {
     Write-Output "Building " $_.FullName;
@@ -27,5 +29,8 @@ ForEach-Object {
         $title = $_.BaseName;
     }
     # Write-Output $outputfile;
+    Set-Location $_.Directory;
     pandoc $_.FullName -o $outputfile --variable=title:$title --variable=author:$author
 }
+
+Set-Location $startFolder;

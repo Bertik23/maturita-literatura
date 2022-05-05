@@ -1,3 +1,88 @@
+# Kontext
+* konec 19. století
+
+## Dekadence
+* životní pocit × symbolismus (směr)
+* pocit umělců, znechucení společností, utíkají od ní a vytvářejí si vlastní svět
+* v literatuře pesimistické nálady, modribita, pocit zmaru, erotická přesycenost, mysticismus, narcismus
+* bohémství, satanismus, nevázaný sex, alkohol, tuláctví, výstřednost
+* většinou i symbolisté
+* ovlivnili směry počátku 20. století
+* uvolnění literatury po stánce etické i z hlediska formy
+* lartpourlartismus
+  * umění pro umění
+  * klade důraz na formální stránku umění
+
+## Dekadenti
+* Oscar Wilde - Obraz Doriana Graye, Jak je důležité míti Filipa, Střašidlo Cantervillské
+* Walter Whitman - Stébla trávy
+
+## Prokletí básníci
+* dekadentní básníci ve Francii
+* Charles Baudelaire - Květy zla, Mršina
+* Paul Verlain - Láska
+* Artur Rimbaud - Opilý koráb, Samohlásky
+
+## Česká moderna
+
+# Autor
+* časově ještě romantik, ale jinak symbolista
+* Američan
+* literatura hrůzy
+* racionální přístup k tvorbě textu
+* nejdřív efekt, pak děj a text
+* postava racionálního detektiva (Dupin) - inspirace pro Sherlocka Holmese
+
+# Kniha
+## Obecně
+* prvky hororu
+* geniálně zachycena psychologie postavy odsouzence
+* popis mučení inkvizice
+* žádná jména
+
+### Literární žánr
+* hororová povídka 
+
+### Literární druh
+* epika
+
+### Časoprostor
+* španělské město Toledo v době španělské inkvizice, cca 19. století
+
+### Kompozice
+* chronologická, soubor povídek
+
+### Téma
+* čekání na smrt v kobce
+
+### Motiv
+* církev
+* Španělsko
+* odvaha
+* fanatičnost
+
+### vypravěč / lyrický subjekt
+* ich forma
+
+### vyprávěcí způsoby
+* nepřímá řeč
+
+### typy promluv
+* vnitřní monology
+
+## Postavy
+### odsouzenec
+* smělý muž, jenž i přesto, že je podrážděn natolik, aby zešílel, si zachovává chladnou hlavu a čistou mysl
+* odvážný
+* racionálně uvažuje
+* vždy hledá ve všem jakékoliv východisko
+
+### generál Lassalle
+* osvoboditel odsouzence
+
+# Děj
+Odsouzený (vypravěč) je církví zavřen do kobky, aby zde strávil zbytek svého života. V ní je naprostá tma, a proto se rozhodne změřit její velikost za pomoci kusu látky z kutny, do které byl oblečen. Uklouzne však při tom, díky čemuž zjistí, že je těsně u okraje velké propasti (jámy). Ta by podle něj mohla znamenat vysvobození, ale také smrt. Když se posléze posilní jídlem a vodou, upadne do hlubokého spánku, neboť se v potravě nejspíš nacházel uspávací prostředek. Probouzí se spoutaný pod kyvadlem, které se nad ním na provaze houpe a stále se přibližuje blíž a blíž k jeho tělu. Začne proto přemýšlet, jak by se z této prekérní situace dostal, ale kvůli psychické nestabilitě se mu to příliš nedaří. Na poslední okamžik se zachrání, neboť se mu podaří přijít na plán, v němž využije žravosti krys. Bohužel poté, co je kyvadlo vyzdviženo z místnosti stropem, stěny kobky se nejprve rozpálí a následně se sunou tak, aby donutily odsouzence spadnout do jámy. Těsně u okraje se nakonec zastaví, a proto je hlavní postava zachráněna. Povídka končí tím, že mu generál Lasalle podává ruku, aby jej mohl vytáhnout. Toledo je dobyto francouzskou armádou a inkvizice je roztroušena.
+
 # Ukázka
 Po půlhodině (snad uplynula i hodina – měl jsem nejasnou představu o čase) jsem
 opět vzhlédl. A teď jsem spatřil něco, co mne opravdu zmátlo a udivilo. Dráha
