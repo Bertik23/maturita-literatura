@@ -1,6 +1,8 @@
 param (
     $f=$false,
-    [Switch]$l);
+    [Switch]$l,
+    [Switch]$g
+);
 
 if($f){
     $folder = (Get-ChildItem "." -Attributes Directory -Filter $f* -Name)
@@ -12,8 +14,17 @@ Write-Output "Building files from " $folder;
 
 $startFolder = Get-Location;
 
-Get-ChildItem $folder -Recurse -Filter *.md |
-ForEach-Object {
+if (!$g){
+    $files = Get-ChildItem $folder -Recurse -Filter *.md
+} else {
+    $files = @();
+    git ls-files -o -m -- "*.md" | ForEach-Object{
+        $files | Get-Item -Include (Get-Item $_);
+    };
+    Write-Output $files;
+}
+
+$files | ForEach-Object {
     Write-Output "Building " $_.FullName;
     # Write-Output $_.BaseName;
     # $_ | Format-List -Property *;
