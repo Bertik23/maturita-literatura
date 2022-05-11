@@ -71,5 +71,37 @@
 * distopie: R.U.R., Věc Makropulos (problematika nesmrtelnosti), Krakatit, Válka s Mloky
 * Bílá nemoc, Matka (rozpor mezi mužským a ženským vnímáním světa)
 
+# Kniha
+## Obecně
+* všechnomožný
+* pestrý jazyk
+* až postmoderní román
+
+### Téma
+* střet mloků s lidmi
+
+### Motiv
+* varování před válkou
+* před fašismem
+* hamižnost
+
+### Časoprostor
+* různá místa (Tichomoří, Praha, Londýn, La Manche...), před 2. sv. válkou
+
+### Kompoziční výstavba
+* předmluva a 3 části knihy, novinové útržky, chronologická
+
+### Literární druh
+* epika
+
+### Literární žánr
+* antiutopický román
+
+# Děj
+Kapitán van Toch jede lovit perly na ostrůvek Tana Masa. Všude jsou však již vylovené, kromě podivné zátoky Devil Bay. O té si však místní vyprávějí, že tu žijí čerti. Kapitán tomu nevěří a pošle tam své potápěče. Ti se po chvíli vynoří polomrtví děsem, že tam jsou čerti. Van Toch se ještě ten večer prochází v opilosti po pobřeží, když se z vody začnou vynořovat podivní černí tvorové. Postupně si je oblíbí, naučí je nosit mu perly a bránit se proti žralokům pomocí nožů, které jim dá. Vezme si dovolenou a s těmito stvořeními zde stráví celý rok. Poté se vrací do Čech, kde spolu s panem Bondym založí Pacifickou Exportní společnost, jež rozšiřuje mloky po ostrovech a prodává perly, které mloci najdou.
+Mezitím se o mlocích dozvídají vědci a podrobují je mnoha experimentům. Z nich vyplyne, že mloci jsou inteligentní tvorové, kteří se rychle rozmnožují a mají vysokou schopnost regenerace. Po několika letech jsou však naleziště téměř vyčerpány a kapitán umírá. Pan Bondy se tedy rozhodne pro založení Salamandřího syndikátu, jenž prodává mloky jako levnou pracovní sílu. Jsou využíváni například k budování nových pevnin, leteckých ostrovů, podvodních pevností, hrází nebo k čištění přístavů a lidé jim na to dodávají zbraně a krmí je. Mloků je však stále více, zakládají se pro ně školy, hrají ve filmech, někteří se stávají vědci...
+Po nějaké době se však začínají objevovat i první napadení lidé mloky a roste napětí. Lidský svět je kontaktován Chiefem Salamanderem, který je však člověkem a požaduje zbourání pevnin ve prospěch přemnožených mloků. Lidé nedokážou nic dělat proti ozbrojeným mlokům a prchají do hor. Jeden mlok se dokonce objeví i ve vnitrozemí, přímo ve Vltavě.
+
 # Ukázka
+* konec knihy
 ![ukázka](ukazka.png)

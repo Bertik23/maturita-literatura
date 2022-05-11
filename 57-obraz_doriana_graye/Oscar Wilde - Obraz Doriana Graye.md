@@ -1,42 +1,9 @@
 # Kontext
 * konec 19. století
 
-## Dekadence
-* životní pocit × symbolismus (směr)
-* pocit umělců, znechucení společností, utíkají od ní a vytvářejí si vlastní svět
-* v literatuře pesimistické nálady, modribita, pocit zmaru, erotická přesycenost, mysticismus, narcismus
-* bohémství, satanismus, nevázaný sex, alkohol, tuláctví, výstřednost
-* většinou i symbolisté
-* ovlivnili směry počátku 20. století
-* uvolnění literatury po stánce etické i z hlediska formy
-* lartpourlartismus
-  * umění pro umění
-  * klade důraz na formální stránku umění
+{/ ../kontexty/dekadence /}
 
-## Dekadenti
-* Allan Edgar Poe - Jáma a kyvadlo, Havran
-* Walter Whitman - Stébla trávy
-
-## Prokletí básníci
-* dekadentní básníci ve Francii
-* Charles Baudelaire - Květy zla, Mršina
-* Paul Verlain - Láska
-* Artur Rimbaud - Opilý koráb, Samohlásky
-
-## Česká moderna
-
-## Generace buřičů
-* Petr Bezruč - Slezské písně (Maryčka Magdónova, Ostrava, Ošklivý zjev)
-* František Gellner - Po nás ať přijde potopa, Radosti života
-* Fráňa Šrámek - Života bído, přec tě mám rád, Splav, Stříbrný vítr, Měsíc nad řekou
-* Stanislav Kostka Neumann - Rudé zpěvy
-
-# Autor
-* Ir
-* dekadence, lartpourlartismus
-* intelekt, ironie, vtip -> oblíbený společní
-* obviněn z homosexuality, lidé se obrátili proti němu
-* není nic takového, jako morální nebo nemorální kniha, buď je dobře napsaná, nebo špatně, nic jinýho
+{/ ../autori/wilde /}
 
 # Kniha
 ## Obecně

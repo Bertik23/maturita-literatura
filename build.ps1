@@ -1,7 +1,8 @@
 param (
     $f=$false,
     [Switch]$l,
-    [Switch]$g
+    [Switch]$g,
+    [Switch]$c
 );
 
 if($f){
@@ -40,8 +41,19 @@ $files | ForEach-Object {
         $title = $_.BaseName;
     }
     # Write-Output $outputfile;
-    Set-Location $_.Directory;
-    pandoc $_.FullName -o $outputfile --variable=title:$title --variable=author:$author
+    if (!$c){
+        Set-Location $_.Directory;
+        pandoc $_.FullName -o $outputfile --variable=title:$title --variable=author:$author --pdf-engine=xelatex
+    } else {
+        $tempFile = $_.DirectoryName + "/tmp.md";
+        Write-Output $tempFile;
+        .\mdtempl.exe $_.FullName | Out-File $tempFile -Encoding "utf8";
+        Set-Location $_.Directory;
+        # Write-Output $text;
+        pandoc "tmp.md" -o $outputfile --variable=title:$title --variable=author:$author --pdf-engine=xelatex
+        Remove-Item $tempFile;
+    }
+    Set-Location $startFolder;
 }
 
 Set-Location $startFolder;
