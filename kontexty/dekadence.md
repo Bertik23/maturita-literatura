@@ -23,9 +23,12 @@
 
 ## Česká moderna
 * Otokar Březina
+  * "šílenství metafor"
+* Antonín Sova
 
 ## Generace buřičů
 * Petr Bezruč - Slezské písně (Maryčka Magdónova, Ostrava, Ošklivý zjev)
 * František Gellner - Po nás ať přijde potopa, Radosti života
 * Fráňa Šrámek - Života bído, přec tě mám rád, Splav, Stříbrný vítr, Měsíc nad řekou
 * Stanislav Kostka Neumann - Rudé zpěvy
+  * anarchokomunista
